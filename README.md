@@ -26,6 +26,10 @@ This repository contains the solutions to the lab assignments for the subjects C
 |:---:|---|---|
 | **[Lab 1](DAA%20Lab/Lab%201)** | 1. [Home Exercise](DAA%20Lab/Lab%201/Home%20Exercise)<br> 2. [Lab Exercise](DAA%20Lab/Lab%201/Lab%20Exercise)<br> 3. [Round Exercise](DAA%20Lab/Lab%201/Round%20Exercise) | 1. [Questions](DAA%20Lab/Lab%201/Home%20Exercise/questions.md)<br> 2. [Questions](DAA%20Lab/Lab%201/Lab%20Exercise/questions.md)<br> 3. [Questions](DAA%20Lab/Lab%201/Round%20Exercise/questions.md) |
 | **[Lab 2](DAA%20Lab/Lab%202/)** | [Lab Exercise](DAA%20Lab/Lab%202/Lab%20Exercise) |[Questions](DAA%20Lab/Lab%202/Lab%20Exercise/questions.md)  |
+| **[Lab 3](DAA%20Lab/Lab%203/)** | [Lab Exercise](DAA%20Lab/Lab%203/Lab%20Exercise) |[Questions](DAA%20Lab/Lab%203/Lab%20Exercise/questions.md)  |
+| **[Lab 4](DAA%20Lab/Lab%204/)** | [Lab Exercise](DAA%20Lab/Lab%204/Lab%20Exercise) |[Questions](DAA%20Lab/Lab%204/Lab%20Exercise/questions.md)  |
+| **[Lab 5](DAA%20Lab/Lab%205/)** | [Lab Exercise](DAA%20Lab/Lab%205/Lab%20Exercise) |[Questions](DAA%20Lab/Lab%205/Lab%20Exercise/questions.md)  |
+| **[Lab 6](DAA%20Lab/Lab%206/)** | [Lab Exercise](DAA%20Lab/Lab%206/Lab%20Exercise) |[Questions](DAA%20Lab/Lab%206/Lab%20Exercise/questions.md)  |
 # How to clone the repository
 
 ```bash
